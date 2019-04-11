@@ -227,6 +227,7 @@ a {
 
 
 #schedule, #people, #keynotes {min-height: 1000px;}
+#contact {min-height: 600px;}
 /* #people {min-height: 1000px;} */
 
 .section:first-of-type {
