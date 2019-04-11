@@ -12,7 +12,6 @@ timezone: null
 lsi: false
 markdown: kramdown
 
-
 ### content configuration ###
 title:       "Digital Humanities Beyond Modern English: Computational Analysis of Premodern and Non-Western Literature"
 keywords:    "digital humanities, world literature"
@@ -21,7 +20,7 @@ source_link: ""
 favicon:     "img/favicon.ico"
 touch_icon:  "img/apple-touch-icon.png"
 google_analytics_key:  ## put YOUR key here to enable tracking! (blank to disable)
-
+url: "http://qcrit.github.io" # the base hostname & protocol for your site
 
 ### template colors, used site-wide via css ###
 colors:
@@ -38,4 +37,3 @@ kramdown:
 
 plugins:
   - jekyll-redirect-from
-  
